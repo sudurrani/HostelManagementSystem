@@ -3,3 +3,12 @@
 ################################################################################
 
 /HMS.API/bin/Debug/net5.0
+/HMS.API/obj
+/HMS.Application/bin/Debug/net5.0
+/HMS.Application/obj
+/HMS.Application.Shared/bin/Debug/net5.0
+/HMS.Application.Shared/obj
+/HMS.Core/bin/Debug/net5.0
+/HMS.Core/obj
+/HMS.Core.Shared/bin/Debug/net5.0
+/HMS.Core.Shared/obj
